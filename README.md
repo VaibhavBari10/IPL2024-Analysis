@@ -47,6 +47,7 @@ Inning Dashboard :
 ![Inning Dashboard](https://github.com/user-attachments/assets/aa4203a8-a2f5-46d4-8eb2-5405c875aff4)
 
 Points Table :
+
     The Points Table Dashboard provides a dynamic and interactive overview of team standings in IPL 2024. It not only displays real-time points and rankings but also allows users to drill down into each team's overall season performance — all enriched with team branding and captain imagery.
   📌 Dashboard Components :
     📈 1. Team Standings Table :
