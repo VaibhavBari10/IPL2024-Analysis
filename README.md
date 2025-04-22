@@ -48,8 +48,6 @@ This project helps IPL enthusiasts, analysts, and stakeholders quickly interpret
 
 2. Points Table :
     The Points Table Dashboard provides a dynamic and interactive overview of team standings in IPL 2024. It not only displays real-time points and rankings but also allows users to drill down into each team's overall season performance — all enriched with team branding and captain imagery.
-   
-  📌 Dashboard Components :
   
     📈 1. Team Standings Table :
     •	Displays key stats for each team:
