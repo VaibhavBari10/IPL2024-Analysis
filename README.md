@@ -1,4 +1,4 @@
-                                                        IPL 2024 - Interactive Performance Dashboard
+                              IPL 2024 - Interactive Performance Dashboard
   This Power BI project presents a comprehensive and interactive dashboard for the 2024 season of the Indian Premier League (IPL). It provides detailed insights into match statistics, team performances, and player contributions. Key features of the dashboard include:
 •	Match Analysis View: Displays match-specific summaries such as team scores, top performers (batting and bowling), sixes and fours hit, and final match results.
 •	Points Table Dashboard: Tracks real-time standings of all participating teams with statistics like total matches played, wins, losses, net run rate (NRR), and points.
