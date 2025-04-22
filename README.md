@@ -5,7 +5,7 @@
 •	Team and Player Performance Insights: Showcases individual player contributions (e.g., top scorers and wicket-takers) and team-wise performance in an intuitive layout.
 This project helps IPL enthusiasts, analysts, and stakeholders quickly interpret the league's progress, identify top teams/players, and make data-driven decisions or predictions.
 
-Inning Dashboard :
+1. Inning Dashboard :
     The Inning Dashboard in this IPL 2024 Power BI report provides a match-specific, interactive analysis view, filtered dynamically by Match ID and Inning Number. This dashboard is designed to offer in-depth insight into individual innings, highlighting both batting and bowling performances with a color-coded theme based on the respective teams involved.
 
   🎯 1. Batting Team Summary :
@@ -46,8 +46,7 @@ Inning Dashboard :
 
 ![Inning Dashboard](https://github.com/user-attachments/assets/aa4203a8-a2f5-46d4-8eb2-5405c875aff4)
 
-Points Table :
-
+2. Points Table :
     The Points Table Dashboard provides a dynamic and interactive overview of team standings in IPL 2024. It not only displays real-time points and rankings but also allows users to drill down into each team's overall season performance — all enriched with team branding and captain imagery.
   📌 Dashboard Components :
     📈 1. Team Standings Table :
